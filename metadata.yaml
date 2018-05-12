@@ -1,0 +1,36 @@
+_repo: Grace-Harlowe-s-Overland-Riders-in-the-High-Sierras_45989
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45989-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Gordon, Grace
+    - Thompson, Ames
+    - Lester, Pauline
+    - Flower, Jessie Graham
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_issued: '2014-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sierra Nevada (Calif. and Nev.) -- Description and travel -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Cowgirls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Western stories'
+- !lcsh 'Firearms -- Juvenile fiction'
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+title: Grace Harlowe's Overland Riders in the High Sierras
+url: http://www.gutenberg.org/ebooks/45989
